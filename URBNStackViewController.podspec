@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = "URBNStackViewController"
   s.module_name      = "StackViewController"
-  s.version          = "0.2.1"
+  s.version          = "0.1"
   s.summary          = "Simplifies the process of building forms and other static content using UIStackView."
   s.description      = <<-DESC
 StackViewController is a Swift framework that simplifies the process of building forms and other static content using UIStackView.
